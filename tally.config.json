@@ -1,0 +1,8 @@
+{
+  "dirTypes": {
+    "backend": {
+      "paths": ["src"],
+      "tests": ["tests"]
+    }
+  }
+}
