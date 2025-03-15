@@ -2,7 +2,8 @@
   "dirTypes": {
     "backend": {
       "paths": ["src"],
-      "tests": ["tests"]
+      "tests": ["tests"],
+      "exclude": ["src/Console/ModelsCommand.php"]
     }
   }
 }
