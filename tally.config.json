@@ -1,9 +1,12 @@
 {
-  "dirTypes": {
-    "backend": {
-      "paths": ["src"],
-      "tests": ["tests"],
-      "exclude": ["src/Console/ModelsCommand.php"]
+  "name": "OSS Laravel",
+  "categories": [
+    {
+      "backend": {
+        "paths": ["src"],
+        "tests": ["tests"],
+        "exclude": ["src/Console/ModelsCommand.php"]
+      }
     }
-  }
+  ]
 }
